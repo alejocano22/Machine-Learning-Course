@@ -1,2 +1,5 @@
-# Machine-Learning-Course
-Machine Learning Course - Stanford University
+# Machine Learning Course
+## Stanford University
+Coursera 
+### Alejandro Cano Múnera
+Programming exercises!
